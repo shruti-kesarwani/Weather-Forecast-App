@@ -72,7 +72,11 @@ This project helped me learn:
 * Dark/Light Mode
 * Weather-Based Dynamic Backgrounds
 * Search History
+ 
+🌐 Live Project Link:  
+https://shruti-kesarwani.github.io/Weather-Forecast-App/
 
 ## Author
 
 Shruti Kesarwani
+
